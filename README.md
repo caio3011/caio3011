@@ -10,7 +10,7 @@
 
 ##
 ## 🎮😄Sobre mim
-
+Iniciante na área da programação, gosto de jogar nos tempos livres, entre outras coisas
 
 ##
 ## Entre em contato
